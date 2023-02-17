@@ -1,2 +1,2 @@
 # pTextRepository
-personal text repository
+个人练习 新增
