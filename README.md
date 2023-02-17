@@ -1,0 +1,2 @@
+# pTextRepository
+personal text repository
